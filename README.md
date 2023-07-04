@@ -1,3 +1,1 @@
-# Flappy-word-Game
-This is the console based copy of most popular flappy word game .Source code is written in c++.
-various Header files are used to implement it like windows.h to use os functionality and others.
+This project is a console-based implementation of the popular game "Flappy Bird" using C++. It is designed               to run on a Windows system. The game consists of a bird represented by ASCII   characters, which the       player can control using the spacebar key to make it fly. The objective is to navigate the bird through gaps between pipes that appear on the screen. The player earns points for successfully passing through the gaps, and the game ends if the bird collides with the pipes or touches the ground.
